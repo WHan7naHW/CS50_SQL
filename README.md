@@ -20,6 +20,10 @@ This is a CS50's Introduction to Databases with SQL.
 
     - [Packages, Please](P1/packages)
     - [DESE](P1/dese)
-    - 
+    - [Moneyball](P1/moneyball)
 
-3. 
+3. [Problem Set 2 - Designing](https://cs50.harvard.edu/sql/2024/psets/2/)
+
+    - []
+
+4. 
