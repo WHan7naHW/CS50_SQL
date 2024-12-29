@@ -19,6 +19,7 @@ This is a CS50's Introduction to Databases with SQL.
 2. [Problem Set 1 - Relating](https://cs50.harvard.edu/sql/2024/psets/1/)
 
     - [Packages, Please](P1/packages)
+    - [DESE](P1/dese)
     - 
 
 3. 
