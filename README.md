@@ -2,6 +2,7 @@
 
 This is a CS50's Introduction to Databases with SQL.
 
+- [Workplace](https://cs50.dev/)
 - [Submissions](https://submit.cs50.io/courses/1997/)
 - [Gradebook](https://cs50.me/cs50sql)
 - [Github](https://github.com/WHan7naHW/CS50_SQL)
@@ -17,6 +18,7 @@ This is a CS50's Introduction to Databases with SQL.
 
 2. [Problem Set 1 - Relating](https://cs50.harvard.edu/sql/2024/psets/1/)
 
-    - []
+    - [Packages, Please](P1/packages)
+    - 
 
 3. 
