@@ -25,6 +25,7 @@ This is a CS50's Introduction to Databases with SQL.
 3. [Problem Set 2 - Designing](https://cs50.harvard.edu/sql/2024/psets/2/)
 
     - [ATL](P2/atl/schema.sql)
-    - 
+    - [Happy to Connect](P2/connect/schema.sql)
+    - [Union Square Donuts]
 
 4. 
