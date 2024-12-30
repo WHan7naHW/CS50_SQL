@@ -26,6 +26,11 @@ This is a CS50's Introduction to Databases with SQL.
 
     - [ATL](P2/atl/schema.sql)
     - [Happy to Connect](P2/connect/schema.sql)
-    - [Union Square Donuts]
+    - [Union Square Donuts](P2/donuts/schema.sql)
 
-4. 
+4. [Problem Set 3 - Writing](https://cs50.harvard.edu/sql/2024/psets/3/)
+    
+    - [Don’t Panic!]
+
+
+5. 
