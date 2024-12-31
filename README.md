@@ -30,7 +30,8 @@ This is a CS50's Introduction to Databases with SQL.
 
 4. [Problem Set 3 - Writing](https://cs50.harvard.edu/sql/2024/psets/3/)
     
-    - [Don’t Panic!]
+    - [Don’t Panic!](P3/dont-panic/hack.sql)
+    - [Meteorite Cleaning]
 
 
 5. 
