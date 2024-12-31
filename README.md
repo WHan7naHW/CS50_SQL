@@ -31,7 +31,10 @@ This is a CS50's Introduction to Databases with SQL.
 4. [Problem Set 3 - Writing](https://cs50.harvard.edu/sql/2024/psets/3/)
     
     - [Don’t Panic!](P3/dont-panic/hack.sql)
-    - [Meteorite Cleaning]
+    - [Meteorite Cleaning](P3/meteorites/import.sql)
 
+5. [Problem Set 4 - Viewing](https://cs50.harvard.edu/sql/2024/psets/4/)
 
-5. 
+    - [Census Taker](
+
+6. 
