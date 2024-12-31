@@ -37,6 +37,11 @@ This is a CS50's Introduction to Databases with SQL.
 
     - [Census Taker](P4/census/log.sql)
     - [The Private Eye](P4/private/private.sql)
-    - [Bed and Breakfast](
+    - [Bed and Breakfast](P4/bnb/log.sql)
 
-6. 
+6. [Problem Set 5 - Optimizing](https://cs50.harvard.edu/sql/2024/psets/5/)
+
+    - [In a Snap](
+
+
+7. 
