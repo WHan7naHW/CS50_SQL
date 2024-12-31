@@ -1,4 +1,4 @@
-CREATE TEMPORARY TABLE "triplets" (
+CREATE TABLE "triplets" (
     "sentence_id" INTEGER,
     "start_position" INTEGER,
     "length" INTEGER
