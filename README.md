@@ -12,15 +12,15 @@ This is a CS50's Introduction to Databases with SQL.
 
 1. [Problem Set 0 - Querying](https://cs50.harvard.edu/sql/2024/psets/0/)
 
-    - [cyberchase](P0/cyberchase)
-    - [normals](P0/normals)
-    - [players](P0/players)
+    - [cyberchase](P0/cyberchase/log.sql)
+    - [normals](P0/normals/log.sql)
+    - [players](P0/players/log.sql)
 
 2. [Problem Set 1 - Relating](https://cs50.harvard.edu/sql/2024/psets/1/)
 
-    - [Packages, Please](P1/packages)
-    - [DESE](P1/dese)
-    - [Moneyball](P1/moneyball)
+    - [Packages, Please](P1/packages/log.sql)
+    - [DESE](P1/dese/log.sql)
+    - [Moneyball](P1/moneyball/log.sql)
 
 3. [Problem Set 2 - Designing](https://cs50.harvard.edu/sql/2024/psets/2/)
 
