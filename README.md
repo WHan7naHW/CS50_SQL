@@ -35,6 +35,7 @@ This is a CS50's Introduction to Databases with SQL.
 
 5. [Problem Set 4 - Viewing](https://cs50.harvard.edu/sql/2024/psets/4/)
 
-    - [Census Taker](
+    - [Census Taker](P4/census/log.sql)
+    - [The Private Eye](
 
 6. 
