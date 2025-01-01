@@ -41,7 +41,8 @@ This is a CS50's Introduction to Databases with SQL.
 
 6. [Problem Set 5 - Optimizing](https://cs50.harvard.edu/sql/2024/psets/5/)
 
-    - [In a Snap](
+    - [In a Snap](P5/snap/log.sql)
+    - [your.harvard](
 
 
 7. 
